@@ -31,7 +31,7 @@ db.exec(`
   );
 `);
 
-const MASTER_WALLET = "UQA_ThE7H_jBn3oF5jRHIztYwRUT3eYOzXwY-nFbW6AIFhJ-";
+const MASTER_WALLET = "UQB9K3DbZ1DJY7unriX6mU9Vk7DPu-U_s2CB0_rEF7PVYP7W";
 
 // ✅ ENV
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
